@@ -1,2 +1,35 @@
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
 
+.box1{
+	width:150px;
+	height:150px;
+	color:black;
+	font-weight:bold;
+	font-size:30px;
+	background-color:red;
+/* 	order:2; */
+}
+.box2{
+	width:150px;
+	height:150px;
+	color:black;
+	font-weight:bold;
+	font-size:30px;
+	background-color:blue;
+/* 	order:3; */
+}
+
+.box3{
+	width:150px;
+	height:150px;
+	color:black;
+	font-weight:bold;
+	font-size:30px;
+	background-color:green;
+/* 	order:1; */
+}
 /* Your CSS Code here. */
